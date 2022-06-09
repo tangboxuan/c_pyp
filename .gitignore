@@ -1,7 +1,9 @@
 *
 !/**/
+!*.txt
 !.gitignore
 !*.pdf
 !*.c
 !*.h
 !*/makefile
+cmake-build-debug*
