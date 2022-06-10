@@ -6,4 +6,5 @@
 !*.c
 !*.h
 !*/makefile
+!script
 cmake-build-debug*
